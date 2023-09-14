@@ -16,7 +16,7 @@ xmlns:buttons="clr-namespace:Syncfusion.Maui.Buttons;assembly=Syncfusion.Maui.Bu
 ```
 **[C#]**
 ```
-    using Syncfusion.Maui.Buttons;
+using Syncfusion.Maui.Buttons;
 ```
 
 Step 2: Set the Button control to content in `ContentPage.`
