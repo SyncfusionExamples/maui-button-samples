@@ -1,12 +1,12 @@
 # maui-button-samples
 Contains samples for .NET MAUI Button
 
-# Getting started with Button control
+## Getting started with Button control
 The .NET MAUI Button (SfButton) is a custom button control. Its built-in features include UI customization, support for icons, predefined styles, rounded corners, and visual state customization using the visual state manager. 
 
 Documentation: https://help.syncfusion.com/maui/button/getting-started
 
-### Adding the .NET MAUI NumericEntry 
+## Adding the .NET MAUI NumericEntry 
 
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
